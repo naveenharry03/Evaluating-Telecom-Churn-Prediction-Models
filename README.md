@@ -1,1 +1,3 @@
 # Evaluating-Telecom-Churn-Prediction-Models
+
+This project compares decision trees, random forests, and logistic regression for telecom churn prediction.Using a dataset with 21 customer behavior-related variables like monthly bills and internet usage, the goal is to predict customer churn or non-churn.Random forests outperform the others, leveraging the predictive power of decision trees. However, logistic regression provides better feature visibility and understanding of their effects on predictions. If interpretation is not crucial, random forests excel in predictive accuracy and are an excellent choice for this task.
